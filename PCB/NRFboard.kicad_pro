@@ -105,7 +105,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
@@ -517,7 +517,16 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.3,
         "name": "rf",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1565
+      },
+      {
+        "clearance": 0.1,
+        "name": "rf-clear",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -533,6 +542,10 @@
       {
         "netclass": "rf",
         "pattern": "Net-(AE1-A)"
+      },
+      {
+        "netclass": "rf-clear",
+        "pattern": "Net-(U4-ANT)"
       }
     ]
   },
