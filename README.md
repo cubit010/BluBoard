@@ -1,7 +1,7 @@
 # BluBoard
+<img width="4000"  alt="banner_ortho" src="https://github.com/user-attachments/assets/4edf628e-e06e-4548-ae24-e67ef5867d3c" />
 
 An nRF52840 dev board made to be embedded in a custom mechanical keyboard, with as many pins broken out as possible within JLCPCB's 6-layer specs.
-<img width="3200" height="3200" alt="bluboard_bg3" src="https://github.com/user-attachments/assets/d8342bcc-93cc-497e-92ee-c6000ae0d875" />
 
 ---
 
