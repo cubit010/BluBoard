@@ -48,8 +48,9 @@ BluBoard targets **ZMK**, which has native nRF52840 support and works well for w
 
 
 ## Why 6 layers?
- 
-> Jlc's manufacturing options allow for cheap manufacturing of 6 layer boards, in addition, at this form factor, their 6 layer boards are cheaper than 4 layer, while having additional benefits such as enig finish, and free filled vias, so the bga solder points would not be a possible point of failure
+
+Jlc's manufacturing options allow for cheap manufacturing of 6 layer boards, in addition, at this form factor, their 6 layer boards are cheaper than 4 layer, while having additional benefits such as enig finish, and free filled vias, so the bga solder points would not be a possible point of failure
+
 ---
 
 ## Previews
