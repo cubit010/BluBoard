@@ -1,4 +1,4 @@
-# BluBoard
+<h1 align="center">Bluboard</h1>
 <img width="4000"  alt="banner_ortho" src="https://github.com/user-attachments/assets/4edf628e-e06e-4548-ae24-e67ef5867d3c" />
 
 An nRF52840 dev board made to be embedded in a custom mechanical keyboard, with as many pins broken out as possible within JLCPCB's 6-layer specs.
