@@ -28,6 +28,8 @@ Slightly wider than a Raspberry Pi Pico. Uses two 1×20 pin headers, plus an ext
 - **SPI** - broken out, available on most pins
 - **Analog IO** - most analog pins are broken out, on top or bottom layer with 1oz copper for signal
 - **6-layer PCB** - JLCPCB, ENIG finish, filled via for bga
+- **Built-in power management** - built in battery support through a jst-ph connector and a BQ24075 charger
+
 ---
 
 ## Pin Breakout
