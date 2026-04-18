@@ -56,6 +56,7 @@ Jlc's manufacturing options allow for cheap manufacturing of 6 layer boards, in 
 ## Previews
 ### Schematic
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/fc130243-2a68-4db1-ad74-be2882d0b153" />
+(don't ask why I did this)
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/28c11495-975c-43df-9145-3f52e2b11357" />
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/71a4bddb-1bb6-42f5-b67d-dbab579974e1" />
 
